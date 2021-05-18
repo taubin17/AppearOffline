@@ -1,1 +1,4 @@
-To be updated in the future!
+This project is an attempt to group online services together, and manage your online status in said services.
+Ideally, game platforms like BattleNet (In progress), Steam, and Discord (Maybe more in the future, such as Origin), as well as social media like Instagram, Facebook, and Snapchat (The snap map).
+For all of the applications listed above, the project serves as a method to turn multiple or all methods offline or online. This is a great feature, but is extremely difficult to implement as each application is built different and possess different levels of security.
+If you have any recommendations for applications to apply to this repository, feel free to email me @ taubin17@gmail.com.
